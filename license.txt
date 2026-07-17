@@ -1,3 +1,4 @@
 # Daftar lisensi EA DualLimitFreeze
    # Format: NOMOR_AKUN;TANGGAL_EXPIRED (yyyy.mm.dd)
    104794413;2026.08.17
+213703154;2026.08.17
